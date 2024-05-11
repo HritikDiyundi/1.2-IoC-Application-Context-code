@@ -99,14 +99,4 @@ The output of running the code will be:
 ```java
 Received Custom Event: Custom Event Occurred!
 Hello, my name is John
-
-
-```
-
-### Expected Output
-The output of running the code will be:
-
-```java
-Received Custom Event: Custom Event Occurred!
-Hello, my name is John
 ```
